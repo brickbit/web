@@ -1,18 +1,21 @@
-# Introduction
+# Date
 
-Date here
+29/05/2017
 
-# INTRODUCTION
+# About me
+Hello! My name is Roberto García Romero, I'm from Cáceres and I am a engineer building although I am currently studying computer engineering in computer engineering at the University of Extremadura.
 
+# About the project
+This project aims to redesign Learnbot to make your design more suitable to accomplish your tasks.
+In this revision of the design are intended to add new features as a matrix LED or infrared and improve the current features (change the situation of the camera to make it more functional, among others).
+On the other hand this revision aims to better adapt the position of the components and make the robot easily recordable.
 
-Write something about you.
+A few weeks ago I uploaded a redesign proposal from Learnbot in STL format and an image to illustrate in which way I intend to redesign the robot.
+This week I hope to receive the information necessary to make all the changes that allow me to build the designs of the first prototypes.
 
-Write about your work during gsoc 2017.
-
-How do you plan to schedule your work...
-
-If you have researched something already or have something to show and share that might be interesting feel free to do it. 
+# The planning
+I Attach a link to a Gantt that shows how I intend to develop the project
 
 * * *
 
-Your name here
+Roberto García Romero (@brickbit)
